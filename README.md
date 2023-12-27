@@ -24,5 +24,5 @@
 - 📭 Discord: esFerDev
 - 💬 Ask me about anything [here](https://github.com/esferdev/esferdev/issues)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=esfer102&show_icons=true&theme=radical" alt="esFerDev's GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfer102&langs_count=8&theme=radical" alt="esFerDev's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=esferdev&show_icons=true&theme=radical" alt="esFerDev's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esferdev&langs_count=8&theme=radical" alt="esFerDev's GitHub stats" />
